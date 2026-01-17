@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Not found — redirecting…</title>
+  </head>
+  <body>
+    <script>
+      (function () {
+        // SPA fallback for static hosts (Cloudflare Pages, Netlify, etc.)
+        // Fetch index.html and render it so the client-side router can handle the path.
+        var pathname = location.pathname + location.search + location.hash;
+        fetch("/index.html")
+          .then(function (r) {
+            return r.text();
+          })
+          .then(function (html) {
+            document.open();
+            document.write(html);
+            document.close();
+            // restore the original pathname so the SPA router can read it
+            history.replaceState({}, "", pathname);
+          })
+          .catch(function () {
+            // fallback: go to root
+            window.location.replace("/");
+          });
+      })();
+    </script>
+  </body>
+</html>

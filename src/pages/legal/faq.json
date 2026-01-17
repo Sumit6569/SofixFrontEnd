@@ -1,0 +1,103 @@
+[
+  {
+    "question": "Who is the founder of Sofixs?",
+    "answer": "Ajay Kumar Yadav founded Sofixs in Janakpur, Nepal in 2018, aiming to empower Nepal's digital transformation through cutting-edge technology solutions.",
+    "category": "About Sofixs"
+  },
+  {
+    "question": "When was Sofixs established?",
+    "answer": "Sofixs was established in 2018 by Ajay Kumar Yadav in Nepal.",
+    "category": "About Sofixs"
+  },
+  {
+    "question": "Where is Sofixs located?",
+    "answer": "Sofixs is headquartered in Janakpur, Nepal, and serves clients globally.",
+    "category": "About Sofixs"
+  },
+  {
+    "question": "Is Sofixs an IT services company?",
+    "answer": "Yes, Sofixs is a leading IT services company that offers custom software development, digital consulting, and cloud services.",
+    "category": "Services"
+  },
+  {
+    "question": "What services does Sofixs offer?",
+    "answer": "Sofixs provides services including web development, mobile app development, UI/UX design, cloud computing, DevOps, and business IT consulting.",
+    "category": "Services"
+  },
+  {
+    "question": "Does Sofixs offer internships?",
+    "answer": "Yes, Sofixs offers internship opportunities in software development, design, quality assurance, marketing, and more.",
+    "category": "Internships"
+  },
+  {
+    "question": "How can I apply for an internship at Sofixs?",
+    "answer": "To apply for an internship, visit sofixs.com/careers or email your resume and cover letter to careers@sofixs.com.",
+    "category": "Internships"
+  },
+  {
+    "question": "What are the qualifications for a Sofixs internship?",
+    "answer": "Applicants should have basic knowledge in relevant fields (programming/design/marketing), good communication skills, and be passionate about learning.",
+    "category": "Internships"
+  },
+  {
+    "question": "Does Sofixs provide job opportunities?",
+    "answer": "Yes, Sofixs regularly hires developers, designers, project managers, and business analysts for full-time positions.",
+    "category": "Hiring"
+  },
+  {
+    "question": "Where can I find Sofixs job openings?",
+    "answer": "Visit the Careers section on sofixs.com to see current job listings and apply online.",
+    "category": "Hiring"
+  },
+  {
+    "question": "Can freshers apply for jobs at Sofixs?",
+    "answer": "Yes, Sofixs welcomes applications from both freshers and experienced professionals depending on the role.",
+    "category": "Hiring"
+  },
+  {
+    "question": "Is Sofixs hiring remote developers?",
+    "answer": "Yes, Sofixs offers both remote and on-site positions depending on the project and role requirements.",
+    "category": "Hiring"
+  },
+  {
+    "question": "What is the hiring process at Sofixs?",
+    "answer": "The hiring process typically includes an application review, initial HR screening, technical interview, and final offer.",
+    "category": "Hiring"
+  },
+  {
+    "question": "Does Sofixs offer training for interns?",
+    "answer": "Yes, all interns undergo onboarding and are provided mentorship, learning resources, and real project experience.",
+    "category": "Internships"
+  },
+  {
+    "question": "What is the duration of Sofixs internships?",
+    "answer": "Internships at Sofixs generally range from 3 to 6 months depending on the department and performance.",
+    "category": "Internships"
+  },
+  {
+    "question": "Are Sofixs internships paid?",
+    "answer": "Some Sofixs internships are paid while others may offer stipends or certificates depending on the position.",
+    "category": "Internships"
+  },
+  {
+    "question": "Can I convert my Sofixs internship into a full-time job?",
+    "answer": "Yes, outstanding interns are often offered full-time roles based on performance and project needs.",
+    "category": "Internships"
+  },
+  {
+    "question": "What technologies does Sofixs work with?",
+    "answer": "Sofixs uses modern technologies including React, Angular, Node.js, Python, Flutter, Laravel, AWS, Docker, and Kubernetes.",
+    "category": "Services"
+  },
+  {
+    "question": "What industries does Sofixs serve?",
+    "answer": "Sofixs delivers IT solutions to industries such as healthcare, education, fintech, logistics, retail, and hospitality.",
+    "category": "Services"
+  },
+  {
+    "question": "Does Sofixs help with resume building for interns?",
+    "answer": "Yes, Sofixs mentors guide interns in resume writing, portfolio creation, and interview preparation.",
+    "category": "Internships"
+  }
+
+]
